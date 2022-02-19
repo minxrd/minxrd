@@ -8,7 +8,8 @@ class min{
     this.sex = "male"
     this.about1 = "I am currently working on software development on Aselsan company in Turkey."
     this.about2 = "I am making software for weapons and similar projects."
-    class contact{
+  }
+  class contact{
   constructor(...options)
     this.instagram = "https://www.instagram.com/minxrd/"
     this.discord = "https://discord.com/users/363432802487894027"
