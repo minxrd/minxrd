@@ -11,3 +11,12 @@ class min{
   }
 }
 ```
+
+```js
+class Contact{
+  constructor(...options) {
+    this.instagram = "https://www.instagram.com/minxrd/"
+    this.discord = "https://discord.com/users/363432802487894027"
+  }
+}
+```
