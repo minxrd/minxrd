@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi I'm Aras Sofuoğlu
+![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=minxrd&color=red)&nbsp;
+[![GitHub minxrd](https://img.shields.io/github/followers/minxrd?label=follow&style=social)](https://github.com/minxrd)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+### 👨🏻‍💻 &nbsp;About Me
+・ &nbsp;I am currently working on software development on Aselsan company in Turkey.\
+・ &nbsp;I am making software for weapons and similar projects.\
 
-<!--
-**minxrd/minxrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 &nbsp; I Know Software Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-Here are some ideas to get you started:
+### 📫 &nbsp; My Contact Information:
+<a href="mailto:minxsadd@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/iCloud-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
+<a href="https://discord.com/users/363432802487894027"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://instagram.com/minxrd"><img src="https://img.shields.io/badge/@minxrd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
