@@ -3,7 +3,6 @@ class min{
   constructor(...options) {
     this.height = "1.83"
     this.weight = "81"
-    this.type = "human"
     this.job = "developer"
     this.sex = "male"
     this.about1 = "I am currently working on software development on Aselsan company in Turkey."
